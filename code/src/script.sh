@@ -1,0 +1,5 @@
+python main.py --m 50 --dataset 'DTD-sys'
+python main.py --m 200 --dataset 'MVTec'
+python main.py --m 250 --dataset 'BTAD'
+python main.py --m 150 --dataset 'WFT'
+python main.py --m 200 --dataset 'WFDD'
